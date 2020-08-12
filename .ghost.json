@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "http://localhost:2369",
+    "contentApiKey": "7e352090370993046cc04648ee"
+  },
+  "production": {
+    "apiUrl": "http://localhost:2369",
+    "contentApiKey": "7e352090370993046cc04648ee"
+  }
+}
